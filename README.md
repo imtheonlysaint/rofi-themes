@@ -1,7 +1,7 @@
 # rofi-themes
 my personal rofi theme collections
 
-simple based color scheme:
+saint, simple based color scheme:
 <img width="749" height="494" alt="Screenshot_18-Jul_00-42-07_13719" src="https://github.com/user-attachments/assets/7f36dd75-5bc8-49e7-823e-0c57a13eced4" />
 
 gruvbox: 
